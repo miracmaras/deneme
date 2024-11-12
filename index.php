@@ -1,3 +1,3 @@
 <?php
-echo "hello 2"
+echo "merhaba miraç"
 ?>
